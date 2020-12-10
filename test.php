@@ -1,2 +1,2 @@
 <?php
-asdasd
+echo "2+2=5";
